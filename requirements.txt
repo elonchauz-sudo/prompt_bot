@@ -1,1 +1,1 @@
-pip aiogram > requirements.txt
+ aiogram 
