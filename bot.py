@@ -9,7 +9,7 @@ from aiogram.types import CallbackQuery, Message
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 # ⚙️ SOZLAMALAR
-API_TOKEN = "8958977800:AAF9T8Nl3hmPlEDmebuLyKpMF69gKy59-1Y"
+API_TOKEN = "8958977800:AAHZjEL3O5Am7OSbVek84rYEkgrSV2oSgmY"
 ADMIN_ID = 5874144878  # O'zingizning Telegram ID raqamingiz
 CHANNEL_USERNAME = "@prompt_k"  # Majburiy obuna kanali
 
